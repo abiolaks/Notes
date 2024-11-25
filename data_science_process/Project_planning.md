@@ -47,7 +47,7 @@ The following should be capure with the meeting with client
 
 Our plan should speak to our methodology
 
-![Data Science Methodology](data_science_process\data_science_methodology.PNG "Title")
+![Data_Science_Methodology](data_science_process\data_science_methodology.PNG)
 
 
 
