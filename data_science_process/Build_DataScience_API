@@ -1,0 +1,19 @@
+# Build a Data Science Api: Write an API
+
+## What is an API
+It is a programming layer that serves as a gateway for your applicacation.
+
+## Pros
+* One supprt all kinds of apps, all kinds of platforms and all kinds of languages.
+* Documentation is fairly straighforward to produce. Data, endpoint and output 
+* The back-end code can be anything you want it to be
+* Simplifies production efforts and time
+
+# Cons
+* More code to maintain
+  * code versioning needs to be tracked closely
+* Can present a security risk
+* Perfomance monitoring/optimization can be difficult to track/fix
+
+
+
